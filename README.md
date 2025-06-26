@@ -133,10 +133,11 @@ jupyter notebook Automating_API_Crypto_Pull.ipynb
 | `symbol`               | Cryptocurrency ticker (e.g., BTC, ETH) |
 | `price`                | Current price in USD                   |
 | `volume_24h`           | Trading volume in last 24h             |
-| `percent_change_1h/7d` | Percentage changes                     |
+| `percent_change`       | Percentage changes                     |
 | `market_cap`           | Current market capitalization          |
 | `total_supply`         | Total minted tokens                    |
 | `max_supply`           | Maximum allowable supply               |
+| `more metrics`         | more metrics                           |
 | `ecosystem`            | Ecosystem tag (e.g., Ethereum, Solana) |
 
 ---
